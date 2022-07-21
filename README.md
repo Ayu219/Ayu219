@@ -1,5 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/78037846/152479672-7c967bfb-b80a-40e1-a962-a5a5a0393e9d.png)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ayush Tomer</h1>
 <h3 align="center">1st year student pursuing Bachelors in Information Technology</h3>
+<img align="right" alt="Coding" width="450" src="https://github.com/Anjan50/Anjan50/blob/main/Untitled%20design%20(14).png")>
 
 - 🏫 Academy of Business and Engineering Science,Ghaziabad
 
